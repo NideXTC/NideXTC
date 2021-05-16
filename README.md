@@ -4,7 +4,7 @@
 🚀 I’m currently working with [WBS CODING SCHOOL](https://www.wbscodingschool.com/)  
   
 
-💬 Ask me about anything related to the MERN stack and to Cyber Security  
+💬 Ask me about anything related to the MERN stack and cybersecurity
   
 
 🎹 I'm a fan of synthesizers   
