@@ -8,6 +8,9 @@
   
 
 🎹 I'm a fan of synthesizers   
+
+
+🙂 Pronouns: He/him 
   
 
 <br/>  
