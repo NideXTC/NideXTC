@@ -10,7 +10,7 @@
 🎹 I'm a fan of synthesizers   
 
 
-🙂 Pronouns: He/him 
+🙂 Pronouns: he/him 
   
 
 <br/>  
