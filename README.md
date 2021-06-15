@@ -1,4 +1,4 @@
-### <div align="center">I'm Alexis, a full-stack freelance developer 👨‍💻 </div>  
+### <div align="center">I'm Alexis, a full-stack developer 👨‍💻 </div>  
   
 
 🚀 I’m currently working with [WBS CODING SCHOOL](https://www.wbscodingschool.com/)  
