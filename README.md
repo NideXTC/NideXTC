@@ -10,7 +10,7 @@
 🎹 I'm a fan of synthesizers   
 
 
-🙂 Pronouns: he/him 
+🖖 Pronouns: he/him 
   
 
 <br/>  
@@ -104,7 +104,7 @@
 <a href="https://codepen.com/nidextc" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@alexis.ducerf" target="_blank">
+<a href="https://alexis-ducerf.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
