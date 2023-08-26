@@ -1,7 +1,7 @@
 ### <div align="center">I'm Alexis, a full-stack developer 👨‍💻 </div>  
   
 
-🚀 I’m currently working with [WBS CODING SCHOOL](https://www.wbscodingschool.com/)  
+🚀 I’m currently working as the Head of Technology at [WBS CODING SCHOOL](https://www.wbscodingschool.com/)  
   
 
 💬 Ask me about anything related to the MERN stack and cybersecurity
@@ -10,7 +10,7 @@
 🎹 I'm a fan of synthesizers   
 
 
-🖖 Pronouns: he/him 
+🖖 Pronouns: he/they
   
 
 <br/>  
