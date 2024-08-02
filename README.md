@@ -123,6 +123,7 @@
   
 
 <br/>  
+<div align="center"><img src="https://lastfm-recently-played.vercel.app/api?user=NideXTC" /></div>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nidextc&cover_image=true&theme=default" /></div>  
 
